@@ -100,3 +100,15 @@
 //var myAnimal1 = new Animal("cat", "bengal", "pwhite", 25, 30);
 //window.console.log(myAnimal1.speak());
 
+//STEP 9
+// var userText = window.prompt("Enter a paragraph.");
+// var userWord = window.prompt("Enter a specific word and I will count the number of times the word came up in the paragraph.");
+// String.prototype.findWords = function () {
+// 	"use strict";
+// 	var regexp = new RegExp(userWord, "gi");
+// 	var count = userText.match(regexp).length;
+// 	window.alert('Your paragraph of text was: \n' + userText + '\nYour specific word "' + userWord + '" was found ' + count + ' time(s).');
+// };
+// userText.findWords();
+
+
